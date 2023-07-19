@@ -13,6 +13,16 @@ const router = new VueRouter({
             path: "/home",
             name:"Home",
             component:()=>import("../components/Home.vue")
+        },
+        {
+            path: "/homet",
+            name:"HomeT",
+            component:()=>import("../components/HomeT.vue")
+        },
+        {
+            path: "/homets",
+            name:"HomeTs",
+            component:()=>import("../components/HomeTs.vue")
         }
     ]
 });

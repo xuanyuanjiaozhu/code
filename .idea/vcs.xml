@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bdp-ddp-frontend-framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d3-graph-with-thumbnail" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d3.js-gallery" vcs="Git" />
   </component>
 </project>
