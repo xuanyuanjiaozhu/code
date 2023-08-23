@@ -23,6 +23,11 @@ const router = new VueRouter({
             path: "/homets",
             name:"HomeTs",
             component:()=>import("../components/HomeTs.vue")
+        },
+        {
+            path: "/homed",
+            name:"HomeD",
+            component:()=>import("../components/HomeD.vue")
         }
     ]
 });

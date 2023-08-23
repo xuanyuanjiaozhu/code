@@ -14,7 +14,12 @@ export default {
 </script>
 
 <style scoped>
+  #app::-webkit-scrollbar{
+    display: none;
+  }
 #app{
+  /*background-color: #010a4b;*/
   height: 100%;
+  overflow-y: scroll;
 }
 </style>

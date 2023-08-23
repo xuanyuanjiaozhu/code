@@ -1,16 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="31422af7-437e-4a86-a748-a36e43520c02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/components/HomeT.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/components/HomeTs.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/Utils/rem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/data/geo3D.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/b_data.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/b_data_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/bg_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/bg_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/hot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/qr_code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/teb_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/teb_00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/teb_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flagship-store/src/components/HomeD.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bdp-ddp-frontend-framework" beforeDir="false" afterPath="$PROJECT_DIR$/bdp-ddp-frontend-framework" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bdp-ddp-frontend-framework/src/platform/site/homepage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bdp-ddp-frontend-framework/src/platform/site/homepage.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bdp-ddp-frontend-framework/src/platform/site/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bdp-ddp-frontend-framework/src/platform/site/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagship-store/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagship-store/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagship-store/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flagship-store/src/Utils/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/src/Utils/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagship-store/src/assets/js/map/china.js" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/src/assets/js/map/china.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flagship-store/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/src/components/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flagship-store/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,32 +51,80 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2FDi4DAYLBSbcY8wUVTYhxoVY63" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/flagship-store/src/components" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/GItHub/code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\GItHub\code\flagship-store\src\components" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GItHub\code\flagship-store\src\assets\img" />
       <recent name="E:\WorkSpace\WebStormProjects\code\H5" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GItHub\code\flagship-store\src\assets\img" />
+      <recent name="E:\GItHub\code\flagship-store\src\components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/flagship-store/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -60,6 +138,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,16 +151,24 @@
       <updated>1664032861090</updated>
       <workItem from="1664032862670" duration="2886000" />
       <workItem from="1689664692135" duration="8413000" />
+      <workItem from="1689932252114" duration="652000" />
+      <workItem from="1690167392871" duration="595000" />
+      <workItem from="1690275726786" duration="4080000" />
+      <workItem from="1690339979744" duration="6489000" />
+      <workItem from="1690361332086" duration="1664000" />
+      <workItem from="1690424468174" duration="11167000" />
+      <workItem from="1690511546503" duration="21375000" />
+      <workItem from="1690545510559" duration="802000" />
+      <workItem from="1690768328478" duration="15226000" />
+      <workItem from="1690874043005" duration="2587000" />
+      <workItem from="1690963135525" duration="771000" />
+      <workItem from="1691133117879" duration="1217000" />
+      <workItem from="1692786839355" duration="570000" />
+      <workItem from="1692789358111" duration="75000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2341" y="96" key="FileChooserDialogImpl" timestamp="1664112707096">
-      <screen x="1920" y="0" width="1280" height="680" />
-    </state>
-    <state x="2341" y="96" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1664112707096" />
+    <option name="version" value="3" />
   </component>
 </project>
