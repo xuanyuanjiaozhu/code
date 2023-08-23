@@ -4,43 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31422af7-437e-4a86-a748-a36e43520c02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flagship-store/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/Utils/rem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/data/geo3D.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/b_data.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/b_data_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/bg_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/bg_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/hot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/logo_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/qr_code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/teb_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/teb_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/assets/img/teb_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flagship-store/src/components/HomeD.vue" afterDir="false" />
+    <list default="true" id="31422af7-437e-4a86-a748-a36e43520c02" name="Default Changelist" comment="添加旗舰店大屏项目">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bdp-ddp-frontend-framework" beforeDir="false" afterPath="$PROJECT_DIR$/bdp-ddp-frontend-framework" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bdp-ddp-frontend-framework/src/platform/site/homepage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bdp-ddp-frontend-framework/src/platform/site/homepage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bdp-ddp-frontend-framework/src/platform/site/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bdp-ddp-frontend-framework/src/platform/site/login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flagship-store/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flagship-store/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flagship-store/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flagship-store/src/Utils/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/src/Utils/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flagship-store/src/assets/js/map/china.js" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/src/assets/js/map/china.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flagship-store/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/src/components/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flagship-store/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/flagship-store/src/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +23,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "xuanyuanjiaozhu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="af738f6f-b0e8-49d2-9689-8b466f05e573" />
+        <option name="url" value="git@github.com:xuanyuanjiaozhu/code.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -87,6 +66,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "ts.external.directory.path": "E:\\GItHub\\code\\myngapp01\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -164,11 +144,35 @@
       <workItem from="1690963135525" duration="771000" />
       <workItem from="1691133117879" duration="1217000" />
       <workItem from="1692786839355" duration="570000" />
-      <workItem from="1692789358111" duration="75000" />
+      <workItem from="1692789358111" duration="499000" />
     </task>
+    <task id="LOCAL-00001" summary="添加旗舰店大屏项目">
+      <option name="closed" value="true" />
+      <created>1692789611835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692789611835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加旗舰店大屏项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加旗舰店大屏项目" />
   </component>
 </project>
